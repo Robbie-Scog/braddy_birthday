@@ -6,7 +6,7 @@ const submitPassword = document.getElementById("submit-password");
 const errorMessage = document.getElementById("error-message");
 
 // Set the correct password (without leading zero)
-const CORRECT_PASSWORD = 6112004;
+const CORRECT_PASSWORD = 14122000;
 
 // Event Listener for Password Submission
 submitPassword.addEventListener("click", () => {
